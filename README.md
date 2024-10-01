@@ -38,9 +38,8 @@ Clone the repository:
 ```bash
 git clone https://github.com/dhruv7539/Text-Summarization.git
 cd Text-Summarization
-###
 
-## Running the Code
+### Running the Code
 Open mt5forsummary.ipynb in Jupyter Notebook or JupyterLab.
 Run the notebook to preprocess the dataset and generate text summaries using the mT5 model.
 For evaluating the generated summaries using ROUGE scores, open and run mt5forrouge.ipynb.
