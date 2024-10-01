@@ -31,11 +31,11 @@ Ensure you have the following installed:
 - Hugging Face Transformers
 - Pandas
 
-### Installation
+
+## Installation
 
 Clone the repository:
 
-```bash
 git clone https://github.com/dhruv7539/Text-Summarization.git
 cd Text-Summarization
 
